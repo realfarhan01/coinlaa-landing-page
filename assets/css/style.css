@@ -4161,7 +4161,7 @@ h6 a {
   }
 }
 .header-wrapper .logo a img {
-  max-width: 100%;
+  max-width: 160px;
 }
 @media (max-width: 575px) {
   .header-wrapper .logo {
@@ -7053,7 +7053,7 @@ textarea:focus-within {
 .trk-btn {
   font-size: 1rem;
   border: transparent;
-  color: #0c263a;
+  color: #fff;
   font-family: "Open Sans", sans-serif;
   padding: 0.75rem 1rem;
   text-decoration: none;
