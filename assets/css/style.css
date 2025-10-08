@@ -818,7 +818,7 @@ ol {
 .testimonial__item--style2 .testimonial__item-inner,
 .service__item-thumb,
 .banner--style3 .banner__counter-item {
-  padding: 25px;
+  padding: 15px;
 }
 
 .sidebar__comment-body,
@@ -8769,8 +8769,8 @@ textarea:focus-within {
 }
 @media (min-width: 768px) {
   .service__item-inner {
-    padding-block: 52px;
-    padding-inline: 32px;
+    padding-block: 30px;
+    padding-inline: 20px;
   }
 }
 .service__item-thumb {
