@@ -5285,26 +5285,26 @@ h6 a {
 }
 @media (min-width: 992px) {
   .banner--style1 {
-    padding-block-start: 148px;
-    padding-block-end: 135px;
+    padding-block-start: 85px;
+    padding-block-end: 0px;
   }
 }
 @media (min-width: 1200px) {
   .banner--style1 {
-    padding-block-start: 148px;
-    padding-block-end: 132px;
+    padding-block-start: 85px;
+    padding-block-end: 0px;
   }
 }
 @media (min-width: 1400px) {
   .banner--style1 {
-    padding-block-start: 148px;
-    padding-block-end: 148px;
+    padding-block-start: 85px;
+    padding-block-end: 0px;
   }
 }
 @media (min-width: 1600px) {
   .banner--style1 {
-    padding-block-start: 148px;
-    padding-block-end: 288px;
+    padding-block-start: 85px;
+    padding-block-end: 0px;
   }
 }
 .banner--style1 .banner__bg-element img {
@@ -7671,14 +7671,14 @@ textarea:focus-within {
   .lightdark-switch .switch-btn {
     bottom: auto;
     left: auto;
-    top: 130px;
-    right: 60px;
+    bottom: 15%;
+    right: 5%;
   }
 }
 @media (min-width: 1400px) {
   .lightdark-switch .switch-btn {
-    top: 80px;
-    right: 90px;
+    bottom: 90px;
+    right: 5%;
   }
 }
 .lightdark-switch .switch-btn img {
